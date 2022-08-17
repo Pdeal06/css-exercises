@@ -4,3 +4,11 @@
   font-family: Helvetica, 'Times New Roman' sans-serif;
 }
 
+.black {
+  background-color: rgba(0, 0, 0, 0.747);
+  color: rgba(250, 235, 215, 0.925);
+}
+
+.yellow {
+  background-color: rgb(255, 255, 0);
+}
